@@ -1,0 +1,2 @@
+# Preserve the byte checksums used by the lab on Windows checkouts.
+data/*.jsonl text eol=lf

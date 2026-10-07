@@ -18,6 +18,9 @@ data/CUSTOM_DATASET.md
 results/*.json
 results/*.csv
 !results/.gitkeep
+# Submitted experiment evidence is versioned for grading.
+!results/*.json
+!results/runs.csv
 gguf/
 *.gguf
 runs/
